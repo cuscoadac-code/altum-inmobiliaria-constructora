@@ -1,0 +1,7 @@
+{
+  "name": "Altum Inmobiliaria Constructora",
+  "description": "Plataforma inmobiliaria y constructora de próxima generación impulsada por IA neuro-sensorial, tours inmersivos y análisis predictivo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
